@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaila Akter</h1>
 <h3 align="center">Transforming Ideas into Elegant Web Interfaces as a Passionate MERN Stack Developer from Bangladesh</h3>
+<div align="center"> <img src="https://github.com/ShailaAkter/ShailaAkter/edit/main/README.md" alt="shailaakter" /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailaakter&label=Profile%20views&color=0e75b6&style=flat" alt="shailaakter" /> </p>
 
