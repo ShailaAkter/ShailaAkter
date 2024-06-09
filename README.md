@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaila Akter</h1>
-<h3 align="center">Transforming Ideas into Elegant Web Interfaces as a Passionate MERN Stack Developer from Bangladesh</h3>
 <div align="center"> <img src="https://github.com/ShailaAkter/ShailaAkter/blob/main/banner.png" alt="shailaakter" /> </div>
+<h3 align="center">Pioneering the Art of Transforming Ideas into Exquisite and Elegant Web Interfaces, Fueled by Passion and Expertise as a MERN Stack Developer.</h3>
 
 - 🌱 I’m currently learning **Redux**
 
