@@ -13,7 +13,7 @@
   
 ### Technical Skills
 
-- **Frontend**: React.js, HTML5, CSS3, Bootstrap, Tailwind, Javascript
+- **Frontend**: React.js, Next.js, HTML5, CSS3, Bootstrap, Tailwind, Javascript
 - **Backend**: Node.js, Express.js
 - **UI Design**: Figma, Illustrator
 - **Database**: MongoDB, MySQL
