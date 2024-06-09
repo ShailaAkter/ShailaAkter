@@ -11,6 +11,17 @@
 
 - ⚡ Fun fact **I think I am ambivert**
 
+  
+### Technical Skills
+
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap, Tailwind, Javascript
+- **Backend**: Node.js, Express.js
+- **UI Design**: Figma, Illustrator
+- **Database**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+- **Deployment**: Netlify, Vercel, Render
+
+- 📫 Feel free to reach out via [shailaakterss@gmail.com].
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shailaakters/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailaakter" height="30" width="40" /></a>
